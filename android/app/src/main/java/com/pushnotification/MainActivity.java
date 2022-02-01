@@ -1,4 +1,4 @@
-package com.pushnotification;
+package org.pengliheng.PushNotification;
 
 import com.facebook.react.ReactActivity;
 import android.os.Bundle;

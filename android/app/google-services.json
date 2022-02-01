@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "423999831269",
+    "project_id": "chatroom-6a388",
+    "storage_bucket": "chatroom-6a388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423999831269:android:a947f692f026e41f9c680c",
+        "android_client_info": {
+          "package_name": "org.pengliheng.PushNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423999831269-unbitk2be7ai3k7438mar1vbpainifs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8hflGbBtKhFm2t651RbE-CNv0dxKEJFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423999831269-unbitk2be7ai3k7438mar1vbpainifs6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "423999831269-jhptcko0ta4ttmmgki07me04ncasfmg1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.pengliheng.PushNotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
